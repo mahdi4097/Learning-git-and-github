@@ -13,3 +13,10 @@ Welcome to my project! This is a brief overview.
 2. Install the required dependencies:
    ```bash
    pip install my-package
+
+## Sample table
+| Input         | Output        |
+| ------------- | ------------- |
+| A             | X             |
+| B             | Y             |
+| C             | Z             |
