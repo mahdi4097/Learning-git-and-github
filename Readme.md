@@ -1,4 +1,4 @@
-# My first My experience with git and github.
+# My first experience with git and github.
 
 ## Introduction
 Welcome to my project! This is a brief overview.
