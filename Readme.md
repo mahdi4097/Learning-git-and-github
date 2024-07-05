@@ -23,5 +23,11 @@ Welcome to my project! This is a brief overview.
 
 ## Beautiful matrix
 
-$$\mathbf{\underline{V}}=\left( \begin{array}{cc} 1 & 2&3&4 \\ 3 & 4 &5&6\end{array}\right)
-\left( \begin{array}{c} 5 \\ 6 \end{array} \right)$$
+$$
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9 \\
+\end{bmatrix}
+$$
+
